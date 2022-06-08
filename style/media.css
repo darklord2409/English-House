@@ -203,12 +203,12 @@
     }
     .about {
         position: absolute;
-        left: 21px;
-        bottom: 19px;
+        left: 12px;
+        bottom: 9px;
         font-family: 'Montserrat';
         font-weight: 500;
-        font-size: 9px;
-        line-height: 10px;
+        font-size: 7px;
+        line-height: 7px;
         color: #FFFFFF;
     }
     .foot-text {
@@ -367,6 +367,6 @@
         line-height: 20px;
         color: #FFFFFF;
     }
-    
+
 
 }
