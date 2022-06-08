@@ -241,7 +241,7 @@
     .about {
         position: absolute;
         left: 12px;
-        bottom: 9px;
+        bottom: 13px;
         font-family: 'Montserrat';
         font-weight: 500;
         font-size: 7px;
@@ -370,5 +370,5 @@
         color: #FFFFFF;
         max-width: 80%;
     }
-    
+
 }
