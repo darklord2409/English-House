@@ -1,0 +1,48 @@
+@font-face{
+    font-family: "Lora";
+    src: url("../font/Lora/Lora-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "Lora";
+    src: url("../font/Lora/Lora-Bold.ttf");
+    font-weight: 700;
+}
+@font-face{
+    font-family: "Montserrat";
+    src: url("../font/Montserrat/Montserrat-Medium.ttf");
+    font-weight: 500;
+}
+@font-face{
+    font-family: "Oxygen";
+    src: url("../font/Oxygen/Oxygen-Bold.ttf");
+    font-weight: 700;
+}
+@font-face{
+    font-family: "Oxygen";
+    src: url("../font/Oxygen/Oxygen-Regular.ttf");
+    font-weight: 400;
+}
+.fas{
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+.far{
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+.fal{
+    font-family: 'FontAwesome';
+    font-weight: 300;
+}
+.fad{
+    font-family: 'FontAwesome Duotone';
+    font-weight: 900;
+}
+.fab{
+  
+        font-family: 'FontAwesome Brands';
+        font-weight: 400;
+    
+}
