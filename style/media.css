@@ -201,6 +201,10 @@
     .nav-title {
         font-size: 20px;
     }
+    .nav{
+        background-color: #00000052;
+        padding: 0;
+    }
 
     .nav-link {
         font-size: 10px;

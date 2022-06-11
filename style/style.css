@@ -50,6 +50,7 @@ nav {
 .nav-list {
     display: flex;
     align-items: center;
+
 }
 
 .tg::before {
@@ -60,7 +61,18 @@ nav {
     margin-right: 8px;
 
 }
-
+.tg::before:hover{
+    color: burlywood;
+}
+.inst::before :hover{
+    color: burlywood;
+}
+.mark::before:hover{
+    color: burlywood;
+}
+.nav-link:hover{
+    color: burlywood;
+}
 
 .inst::before {
     content: '\f16d';
@@ -152,7 +164,7 @@ nav {
     font-size: 19px;
     line-height: 21px;
     color: #FFFFFF;
-    max-width: 205px;
+    max-width: 80%;
 }
 
 .about {
@@ -164,6 +176,7 @@ nav {
     font-size: 13px;
     line-height: 19px;
     color: #FFFFFF;
+    max-width: 80%;
 }
 
 .location {
